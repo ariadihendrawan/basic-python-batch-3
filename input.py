@@ -1,0 +1,10 @@
+nama=input("masukkan nama :")
+umur=input("masukkan umur :")
+tinggi=input("masukkan tinggi badan :")
+print('Your name is :',nama)
+print('Umurmu adalah :',umur)
+print("Tinggi badanmu :",tinggi)
+
+print(type(nama))
+print(type(umur))
+print(type(tinggi))
